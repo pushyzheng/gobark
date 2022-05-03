@@ -1,4 +1,4 @@
-module github.com/pushyzheng/gorequests
+module github.com/pushyzheng/gobark
 
 go 1.17
 
